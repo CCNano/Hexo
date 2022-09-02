@@ -22,5 +22,14 @@
 	"remoteUser": "vscode",
 	"features": {
 		"node": "lts"
+	},
+	"postAttachCommand": "npm install -g hexo-cli && cd /workspaces/Hexo && npm install && git clone -b master https://github.com/jerryc127/hexo-theme-butterfly.git themes/butterfly",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"mutantdino.resourcemonitor",
+				"redhat.vscode-yaml"
+			]
+		}
 	}
 }
