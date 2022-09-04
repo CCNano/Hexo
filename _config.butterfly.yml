@@ -658,8 +658,8 @@ aside:
     button:
       enable: true
       icon: fab fa-github
-      text: Follow Me
-      link: https://github.com/xxxxxx
+      text: Github
+      link: https://github.com/Nanonona/
   card_announcement:
     enable: true
     content: This is my Blog
