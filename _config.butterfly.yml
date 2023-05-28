@@ -569,7 +569,7 @@ google_analytics:
 
 # Cloudflare Analytics
 # https://www.cloudflare.com/zh-tw/web-analytics/
-cloudflare_analytics:fe96d71980de49a2bc0932e304e92fb6
+cloudflare_analytics:<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "fe96d71980de49a2bc0932e304e92fb6"}'></script><!-- End Cloudflare Web Analytics -->
 
 # Microsoft Clarity
 # https://clarity.microsoft.com/
