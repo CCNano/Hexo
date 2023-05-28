@@ -81,7 +81,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://s6.jpg.cm/2022/05/11/LDQ8FX.th.webp
+  img: https://i.imgtg.com/2023/05/28/Oogy7b.webp
   effect: false
 
 # Disable all banner image
@@ -659,7 +659,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Github
-      link: https://github.com/Nanonona/
+      link: https://github.com/CCNano/
   card_announcement:
     enable: false
     content: Nano
