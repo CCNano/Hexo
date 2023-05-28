@@ -661,8 +661,8 @@ aside:
       text: Github
       link: https://github.com/Nanonona/
   card_announcement:
-    enable: true
-    content: This is my Blog
+    enable: false
+    content: Nano
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
